@@ -1,0 +1,35 @@
+BGDM Beligala 28232
+
+1) What is a Servlet in Java?
+
+Java programming language class that is used to extend the capabilities of servers.
+
+2) What is meant by static and dynamic websites. List down their differences.
+
+ Static websites
+
+Content remains fixed and unchanged until manually updated.
+Comparatively loading speed is hight.
+Easier to maintain.
+No server side processing
+
+ Dynamic websites
+
+Content always changing automatically.
+Compatatively need more ability to maintain. 
+Basically use a Database.
+loading speed not high like static websites.
+Server side processing have, basically use PHP.
+
+3) What are the differences between the Get and Post requests?
+
+ GET
+Used to request data from a specified resource.
+Parameters are appended to the URL.
+So, parameters showing on the top of browser link.
+Not safe to share sensitive data true this.
+
+ POST
+Can handle larger amounts of data.
+Parameters no visible to users.
+Safe to send sensitive data.
