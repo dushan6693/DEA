@@ -1,2 +1,2 @@
 # DEA
-Development of enterprise applications tutorials
+Development of enterprise applications - tutorials
