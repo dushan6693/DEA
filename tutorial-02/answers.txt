@@ -1,0 +1,2 @@
+6).
+The GET method response true web address, so it not suitable to access sensitive data like username and password. not recomended for login pages.
